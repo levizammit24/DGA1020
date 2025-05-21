@@ -1,0 +1,26 @@
+/* Pixel Art Aesthetic Black & Yellow Theme */
+
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+body {
+  background-color: #000;
+  color: #FFD700; /* bright yellow */
+  font-family: 'Press Start 2P', cursive;
+  text-align: center;
+  padding: 20px;
+  margin: 0;
+}
+
+h1, h2 {
+  color: #FFEA00;
+  text-shadow: 2px 2px #222;
+  margin-bottom: 20px;
+}
+
+p {
+  font-size: 12px;
+  line-height: 1.6;
+  margin: 20px auto;
+  max-width: 800px;
+  text-align: left;
+  background-color:
